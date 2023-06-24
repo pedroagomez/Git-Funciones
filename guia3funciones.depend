@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\usuario\desktop\c\guia 3 funciones\guia3funciones\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\desktop\c\guia 3 funciones\guia3funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681652736 source:c:\users\usuario\desktop\c\guia 3 funciones\guia3funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+
+1681652736 source:c:\users\usuario\desktop\c\tps programacion\guia 3 funciones\guia3funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+
+1490112217 c:\users\usuario\desktop\c\tps programacion\guia 3 funciones\guia3funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\usuario\desktop\c\tps programacion\guia 3 funciones\guia3funciones\pila.c
+	"pila.h"
+
